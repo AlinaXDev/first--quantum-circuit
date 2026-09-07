@@ -6,11 +6,13 @@
 # Author: Alina Abandeh                                   #
 # Created: 2026-09-07                                     #
 # Last Modified: 2026-09-07                               #
-# Description:                                             #
+# Description:Demonstrates superposition and quantum      #
+# entanglement using Qiskit.                              #
 #                                                          #
 ############################################################
 
 from qiskit import QuantumCircuit
+
 from qiskit_aer import AerSimulator
 from qiskit.visualization import plot_histogram
 
